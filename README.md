@@ -1,9 +1,8 @@
 ## Hello there!
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK. 
 <br/>
-Currently working on my first portfolio site, and full stack web applications. 
-- I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel.
-- Using Javascript most of the time, currently transitioning to TypeScript
+Currently working on my first portfolio site, and full stack web applications. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, currently transitioning to TypeScript
+
 
 <br>
 
@@ -16,7 +15,7 @@ Currently working on my first portfolio site, and full stack web applications.
 <br/>
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr&theme=radical&layout=compact)](https://github.com/pfalzergbr/github-readme-stats)
+
 
 ## Techstack:
 
@@ -35,9 +34,10 @@ Node.js, Express, MySQL, Postgres, MongoDB
 Git, Jest, Docker
 <br/>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr&theme=radical&layout=compact)](https://github.com/pfalzergbr/github-readme-stats)
 
 ### Spoken Languages
-English, Japanese, Hungarian, basic Mandarin Chinese. Interested in learning Swedish.
+English 🇬🇧, Japanese 🇯🇵, Hungarian 🇭🇺, basic Spanish 🇪🇸 and Mandarin Chinese 🇨🇳. Interested in learning Swedish 🇸🇪.
 
 ## Social
 LinkedIn
