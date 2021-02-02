@@ -64,7 +64,7 @@ Currently learning Vue.js and TypeScript and Docker.
 
 ### Spoken Languages
 
-English 🇬🇧, Japanese 🇯🇵, Hungarian 🇭🇺, basic Spanish 🇪🇸 and Mandarin Chinese 🇨🇳. Interested in learning Swedish 🇸🇪.
+English 🇬🇧, Japanese 🇯🇵, Hungarian 🇭🇺, basic Spanish 🇪🇸 and Mandarin Chinese 🇨🇳.
 
 ## Social
 
