@@ -43,4 +43,4 @@ English, Japanese, Hungarian, basic Mandarin Chinese. Interested in learning Swe
 LinkedIn
 Twitter: GaborPfalzer
 
-[Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr)](https://github.com/pfalzergbr/github-readme-stats)
+[![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr)](https://github.com/pfalzergbr/github-readme-stats)
