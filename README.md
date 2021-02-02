@@ -16,7 +16,7 @@ Currently working on my first portfolio site, and full stack web applications.
 <br/>
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr)](https://github.com/pfalzergbr/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr&theme=radical&layout=compact)](https://github.com/pfalzergbr/github-readme-stats)
 
 ## Techstack:
 
@@ -43,4 +43,4 @@ English, Japanese, Hungarian, basic Mandarin Chinese. Interested in learning Swe
 LinkedIn
 Twitter: GaborPfalzer
 
-[![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr)](https://github.com/pfalzergbr/github-readme-stats)
+[![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr&theme=radical)](https://github.com/pfalzergbr/github-readme-stats)
