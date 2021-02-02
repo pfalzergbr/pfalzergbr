@@ -4,18 +4,9 @@
 
 Currently working on my first portfolio site, and full stack web applications. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
-### Finished Projects:
-
-- Tradelog
-
-### Ongoing Projects:
-
-- Portfolio Website
-
-
 ## Techstack:
 
-Currently learning Vue.js and TypeScript and Docker.
+Currently learning Vue.js composition API, TypeScript and Docker.
 
 ### Languages
 
@@ -60,14 +51,24 @@ Currently learning Vue.js and TypeScript and Docker.
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </p>
 
+### Finished Projects:
+
+- Tradelog
+
+### Ongoing Projects:
+
+- Portfolio Website
+
 ### Spoken Languages
 
-English 🇬🇧, Japanese 🇯🇵, Hungarian 🇭🇺, basic Spanish 🇪🇸 and Mandarin Chinese 🇨🇳. Interested in learning Swedish 🇸🇪.
+English, Japanese, Hungarian, basic Spanish and Mandarin Chinese. Interested in learning Swedish 
 
 ### Fun Facts
-- Studied in Japan, Ex-Japanese teacher.
-- Enjoy martial arts, can`t wait to get back into Wing-Chun
-- Interested in learning Swedish, cool language. 
+
+- Studied in Japan, Ex-Japanese teacher, still in love with Japan. 🇯🇵
+- Really enjoy London parks and chasing wildlife 🐿️
+- Missing martial arts, can`t wait to get back into Wing-Chun
+- Interested in learning Swedish, cool language 🇸🇪
 
 ## Social
 
