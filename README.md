@@ -2,7 +2,6 @@
 
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK.
 
-<br/>
 Currently working on my first portfolio site, and full stack web applications. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
 <br>
@@ -15,13 +14,13 @@ Currently working on my first portfolio site, and full stack web applications. I
 
 - Portfolio Website
 
-<br/>
 
 ## Techstack:
 
 Currently learning Vue.js and TypeScript and Docker.
 
 ### Languages
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -32,6 +31,7 @@ Currently learning Vue.js and TypeScript and Docker.
 </p>
 
 ### Frontend
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="40" height="40"/> 
@@ -40,9 +40,9 @@ Currently learning Vue.js and TypeScript and Docker.
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank">
 </p>
-<br/>
 
 ### Backend
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -50,7 +50,6 @@ Currently learning Vue.js and TypeScript and Docker.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
-<br/>
 
 ### Other Tools
 
@@ -67,14 +66,13 @@ Currently learning Vue.js and TypeScript and Docker.
 English 🇬🇧, Japanese 🇯🇵, Hungarian 🇭🇺, basic Spanish 🇪🇸 and Mandarin Chinese 🇨🇳. Interested in learning Swedish 🇸🇪.
 
 ## Social
+
 <a href="https://twitter.com/gaborpfalzer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gaborpfalzer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabor-peter-pfalzer-10552224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabor-peter-pfalzer-10552224" height="30" width="40" /></a>
+
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr&theme=radical&layout=compact)](https://github.com/pfalzergbr/github-readme-stats)
 <br />
 
 [![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr&theme=radical)](https://github.com/pfalzergbr/github-readme-stats)
-
-
-
