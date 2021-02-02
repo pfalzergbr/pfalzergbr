@@ -4,8 +4,6 @@
 
 Currently working on my first portfolio site, and full stack web applications. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
-<br>
-
 ### Finished Projects:
 
 - Tradelog
