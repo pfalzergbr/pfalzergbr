@@ -53,11 +53,15 @@ Currently learning Vue.js composition API, TypeScript and Docker.
 
 ### Finished Projects:
 
-- Tradelog
+- [Tradelog](https://tradelog-app.herokuapp.com/) - React | Redux | NodeJS | Express | PostgresSQL <br>
+  Full stack application for tracking stock market trade results. Create accounts, strategies, track your P&L, success rate. 
+- [Rewards](https://gold-that-glitters.herokuapp.com/todos) - React | Context-api <br>
+  A two-sided, glorified todo application. You earn coins by completing tasks, you can spend them on rewards you set up for yourself. 
 
 ### Ongoing Projects:
 
 - Portfolio Website
+- Stackplanner
 
 ### Spoken Languages
 
