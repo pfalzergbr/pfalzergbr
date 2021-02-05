@@ -4,7 +4,6 @@
 
 Currently working on my first portfolio site and full stack web applications. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
-
 **Learning in progress**: Vue.js composition API, Jest TypeScript and Docker.
 
 ## Techstack:
@@ -45,24 +44,24 @@ Currently working on my first portfolio site and full stack web applications. I 
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </p>
 
-### Finished Projects:
+### Completed Projects:
 
 - [Tradelog](https://tradelog-app.herokuapp.com/) - React | Redux | NodeJS | Express | PostgresSQL <br>
-  Full stack application for tracking stock market trade results. Create accounts, strategies, track your P&L, success rate. 
+  Full stack application for tracking stock market trade results. Create accounts, strategies, track your P&L, success rate.
 - [Rewards](https://gold-that-glitters.herokuapp.com/todos) - React | Context-api <br>
-  A two-sided, glorified todo application. You earn coins by completing tasks, you can spend them on rewards you set up for yourself. 
+  A two-sided, glorified todo application. You earn coins by completing tasks, you can spend them on rewards you set up for yourself.
 
 ### Ongoing Projects:
 
 - Portfolio Website - Nuxt.js
-- Stackplanner - Vue.js|Firebase
+- Stackplanner - Vue | Vuex | Composition | Firebase
 
 ### Spoken Languages
 
