@@ -6,23 +6,23 @@
 
 Currently working on building futher projects to my Portfolil. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
-**Learning in progress**: TDD, TypeScript and Docker.
+**Learning in progress**: TypeScript, TDD, GraphQL, Python, Linux
 
 ## Techstack:
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS
+JavaScript | TypeScript | HTML | CSS | SQL | Python 
 
 
 ### Frontend
 
-React | Redux | Vue.js | Next.js | Sass
+React | Redux | Vue.js | Next.js | Gatsby | Sass
 
 
 ### Backend
 
-Node.js | Express | MySQL | PostgresSQL | MongoDB | Firebase
+Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | JamStack
 
 
 ### Other Tools
@@ -32,17 +32,21 @@ Git | Jest | Docker | Figma
 
 ### Completed Projects:
 
-- [Tradelog](https://tradelog-app.herokuapp.com/) - JavaScript | React | Redux | NodeJS | Express | PostgresSQL <br>
+- [Tradelog](https://tradelog-app.herokuapp.com/) - JavaScript | React | Redux | NodeJS | Express | PostgresSQL | Knex <br>
   Full stack application for tracking stock market trade results. Create accounts, strategies, track your P&L, success rate.
 - [Rewards](https://gold-that-glitters.herokuapp.com/todos) - JavaScript | React | Context-api <br>
   A two-sided, glorified todo application. You earn coins by completing tasks, you can spend them on rewards you set up for yourself.
-- [VTM- Diceroller](https://github.com/pfalzergbr/vtm-dice-ts-react) - TypeScript | React | Jest <br>
+- [VTM- Diceroller](https://vtm-diceroll.netlify.app/) - TypeScript | React | Jest <br>
   My first React Application completed in Typescript. Diceroll generator for tabletop RPG, Vampire the Masquerade. Internal logic unit tested by Jest. 
+- [Extendable Rock-Paper-Scissors](https://rock-paper-dlc.netlify.app/) - TypeScript | React | Jest <br>
+  My first attempt to build an application fully with Test Driven Development, using React Testing Library and Jest. Evergreen junior classic Rock-Paper-Scissors game against the computer, extendable with the fantastic Day 1 DLC, Lizard-Spock. 
 
 ### Ongoing Projects:
 
-- [Extendable Rock-Paper-Scissors](https://github.com/pfalzergbr/rps-typecript) - TypeScript | React | Jest <br>
-  My first attempt to build an application fully with Test Driven Development, using React Testing Library and Jest. Evergreen junior classic Rock-Paper-Scissors game against the computer, extendable with the fantastic Day 1 DLC, Lizard-Spock. 
+- [Bookshelf](https://github.com/pfalzergbr/bookshelf) - TypeScript | Vue | Node.js | Express | TypeORM | GraphQL | Jest <br>
+  Full stack application, my first attempt to crack TypeScript - GraphQL on the backend. Bookshelves are pretty, and nice to fill up with books, but reading them is even cooler. The app Lets the user build reading lists, and self-authorize buying more based on actual reading progress. 
+- [Personal Blog](https://github.com/pfalzergbr/bookshelf) - Gatsby | GraphQL | Sanity.io  <br>
+  My tech/status report blog in progress, practice picking up Gatsby and SSGs. All I need is a catchy name now. 
 
 ### Spoken Languages
 
@@ -62,7 +66,3 @@ English, Japanese, Hungarian, basic Spanish and Mandarin Chinese.
 
 </p>
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pfalzergbr&theme=radical&layout=compact)](https://github.com/pfalzergbr/github-readme-stats)
-<br />
-
-[![Weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pfalzergbr&theme=radical)](https://github.com/pfalzergbr/github-readme-stats) -->
