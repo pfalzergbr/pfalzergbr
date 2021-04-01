@@ -57,7 +57,6 @@ English, Japanese, Hungarian, basic Spanish and Mandarin Chinese.
 - Studied in Japan, Ex-Japanese teacher, still in love with Japan. 🇯🇵
 - Really enjoy London parks and chasing wildlife 🐿️
 - Missing martial arts, can`t wait to get back into Wing-Chun
-- Interested in learning Swedish, cool language 🇸🇪
 
 ## Social
 
