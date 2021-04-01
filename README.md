@@ -57,6 +57,7 @@ English, Japanese, Hungarian, basic Spanish and Mandarin Chinese.
 - Studied in Japan, Ex-Japanese teacher, still in love with Japan. 🇯🇵
 - Really enjoy London parks and chasing wildlife 🐿️
 - Missing martial arts, can`t wait to get back into Wing-Chun
+- Ex-Bar Manager, certified Sake Sommelier and cocktail geek. Weirdly, a near-non drinker. 
 
 ## Social
 
