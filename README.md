@@ -1,9 +1,7 @@
 ## Hello there!
 
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK.
-#### Open to Tech Job offers
-
-[Check out my Porfolio here](https://pfalzer.dev)
+#### Open to Tech Job offers, [Check out my Porfolio here](https://pfalzer.dev).
 
 Currently working on building futher projects to my Portfolil. I mainly work with React, Vue and Node.js, but also interested in PHP/Laravel. Using Javascript most of the time, slowly transitioning to TypeScript.
 
