@@ -42,7 +42,7 @@ Git | Jest | Docker | Figma
 
 ### Ongoing Projects:
 
-- [Bookshelf](https://github.com/pfalzergbr/bookshelf) - TypeScript | Vue | Node.js | Express | TypeORM | GraphQL | Jest <br>
+- [Bookshelf](https://github.com/pfalzergbr/bookshelf) - TypeScript | Vue | Node.js | Express | TypeORM | GraphQL | Apollo | Jest | Vue Testing Library <br>
   Full stack application, my first attempt to crack TypeScript - GraphQL on the backend. Bookshelves are pretty, and nice to fill up with books, but reading them is even cooler. The app Lets the user build reading lists, and self-authorize buying more based on actual reading progress. 
 - [Personal Blog](https://github.com/pfalzergbr/bookshelf) - Gatsby | GraphQL | Sanity.io  <br>
   My tech/status report blog in progress, practice picking up Gatsby and SSGs. All I need is a catchy name now. 
