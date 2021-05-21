@@ -41,7 +41,7 @@ Git | Jest | GraphQL | Docker | Figma
   My first attempt to build an application fully with Test Driven Development, using React Testing Library and Jest. Evergreen junior classic Rock-Paper-Scissors game against     the computer, extendable with the fantastic Day 1 DLC, Lizard-Spock. 
 
 ### Ongoing Projects:
-- [Dungeons & Dragons 3.5 - Character Management] - TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose <br>
+- [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/) - TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose <br>
   Similar to the popular D&D Beyond, Full stack application for an older and more complex version of D&D. Collaboration with a UX designer friend, Reka Kertesz. The application   will let users create and manage D&D Characters, and provide utilities to use during tabletop (or more likely recenly - Discord) sessions. My largest project till date, and my   first collaborative work.
 
 - [Personal Blog](https://github.com/pfalzergbr/personal-blog) - Gatsby | GraphQL | Sanity.io  <br>
