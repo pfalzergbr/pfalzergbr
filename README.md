@@ -16,7 +16,7 @@ JavaScript | TypeScript | HTML | CSS | SQL | Python
 
 ### Frontend
 
-React | Redux | Vue.js | Next.js | Gatsby | Sass
+React | Redux | Vue.js | Next.js | Gatsby | Sass | Apollo
 
 
 ### Backend
@@ -26,7 +26,7 @@ Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | JamStack
 
 ### Other Tools
 
-Git | Jest | Docker | Figma
+Git | Jest | GraphQL | Docker | Figma
 
 
 ### Completed Projects:
@@ -38,14 +38,18 @@ Git | Jest | Docker | Figma
 - [VTM- Diceroller](https://vtm-diceroll.netlify.app/) - TypeScript | React | Jest <br>
   My first React Application completed in Typescript. Diceroll generator for tabletop RPG, Vampire the Masquerade. Internal logic unit tested by Jest. 
 - [Extendable Rock-Paper-Scissors](https://rock-paper-dlc.netlify.app/) - TypeScript | React | Jest <br>
-  My first attempt to build an application fully with Test Driven Development, using React Testing Library and Jest. Evergreen junior classic Rock-Paper-Scissors game against the computer, extendable with the fantastic Day 1 DLC, Lizard-Spock. 
+  My first attempt to build an application fully with Test Driven Development, using React Testing Library and Jest. Evergreen junior classic Rock-Paper-Scissors game against     the computer, extendable with the fantastic Day 1 DLC, Lizard-Spock. 
 
 ### Ongoing Projects:
+- [Dungeons & Dragons 3.5 - Character Management] - TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose <br>
+  Similar to the popular D&D Beyond, Full stack application for an older and more complex version of D&D. Collaboration with a UX designer friend, Reka Kertesz. The application   will let users create and manage D&D Characters, and provide utilities to use during tabletop (or more likely recenly - Discord) sessions. My largest project till date, and my   first collaborative work.
 
-- [Bookshelf](https://github.com/pfalzergbr/bookshelf) - TypeScript | Vue | Node.js | Express | TypeORM | GraphQL | Apollo | Jest | Vue Testing Library <br>
-  Full stack application, my first attempt to crack TypeScript - GraphQL on the backend. Bookshelves are pretty, and nice to fill up with books, but reading them is even cooler. The app Lets the user build reading lists, and self-authorize buying more based on actual reading progress. 
 - [Personal Blog](https://github.com/pfalzergbr/personal-blog) - Gatsby | GraphQL | Sanity.io  <br>
   My tech/status report blog in progress, practice picking up Gatsby and SSGs. All I need is a catchy name now. 
+
+### Projects on Hold: 
+- [Bookshelf](https://github.com/pfalzergbr/bookshelf) - TypeScript | Vue | Node.js | Express | TypeORM | GraphQL | Apollo | Jest | Vue Testing Library <br>
+  Full stack application, my first attempt to crack TypeScript - GraphQL on the backend. Bookshelves are pretty, and nice to fill up with books, but reading them is even cooler.   The app Lets the user build reading lists, and self-authorize buying more based on actual reading progress. 
 
 ### Spoken Languages
 
