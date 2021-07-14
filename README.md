@@ -5,7 +5,9 @@
 
 Currently working on building futher projects to my Portfolio. I mainly work with React, Vue and Node.js, but also interested in other technologies. Using Javascript most of the time, slowly transitioning to TypeScript.
 
-**Learning in progress**: TypeScript, TDD, GraphQL, Python, Linux
+**Learning in progress**: TypeScript, Java. 
+
+Learning Java at the moment, mainly to have access to more resources about computer science topics, Design Patterns, Data Structures and Algorithms. 
 
 ## Techstack:
 
