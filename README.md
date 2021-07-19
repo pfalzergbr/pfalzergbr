@@ -3,7 +3,13 @@
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK.
 #### Open to Tech Job offers, [Check out my Porfolio here](https://pfalzer.dev).
 
-Currently working on building futher projects to my Portfolio. I mainly work with React, Vue and Node.js, but also interested in other technologies. Using Javascript most of the time, slowly transitioning to TypeScript.
+<hr>
+**Main project in the works**: [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/)
+TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose
+Massive full stack application for D&D game management, built in collaboration with an amazing UX Designer friend, under the name of StudioGR. 
+In skeleton state, but the functionality is already interesting!
+Check out the project on [Ko-fi](https://ko-fi.com/studiogr)
+</hr>
 
 **Learning in progress**: TypeScript, Java. 
 
@@ -13,7 +19,7 @@ Learning Java at the moment, mainly to have access to more resources about compu
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS | SQL | Python 
+JavaScript | TypeScript | HTML | CSS | Python | Java | SQL
 
 
 ### Frontend
@@ -23,7 +29,7 @@ React | Redux | Vue.js | Next.js | Gatsby | Sass | Apollo
 
 ### Backend
 
-Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | JamStack
+Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | Apollo
 
 
 ### Other Tools
@@ -44,7 +50,7 @@ Git | Jest | GraphQL | Docker | Figma
 
 ### Ongoing Projects:
 - [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/) - TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose <br>
-  Similar to the popular D&D Beyond, Full stack application for an older and more complex version of D&D. Collaboration with a UX designer friend, Reka Kertesz. The application   will let users create and manage D&D Characters, and provide utilities to use during tabletop (or more likely recenly - Discord) sessions. My largest project till date, and my   first collaborative work.
+  Similar to the popular D&D Beyond, Full stack application for an older and more complex version of D&D. Collaboration with a UX designer friend, Reka Kertesz. The application   will let users create and manage D&D Characters, and provide utilities to use during tabletop (or more likely recenly - Discord) sessions. My largest project till date, and my   first collaborative work. 
 
 - [Personal Blog](https://github.com/pfalzergbr/personal-blog) - Gatsby | GraphQL | Sanity.io  <br>
   My tech/status report blog in progress, practice picking up Gatsby and SSGs. All I need is a catchy name now. 
