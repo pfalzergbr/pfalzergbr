@@ -3,13 +3,13 @@
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK.
 #### Open to Tech Job offers, [Check out my Porfolio here](https://pfalzer.dev).
 
-<hr>
+
 **Main project in the works**: [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/)
 TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose
 Massive full stack application for D&D game management, built in collaboration with an amazing UX Designer friend, under the name of StudioGR. 
 In skeleton state, but the functionality is already interesting!
 Check out the project on [Ko-fi](https://ko-fi.com/studiogr)
-</hr>
+
 
 **Learning in progress**: TypeScript, Java. 
 
