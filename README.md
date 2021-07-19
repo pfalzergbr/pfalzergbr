@@ -1,7 +1,7 @@
 ## Hello there!
 
 #### My name is Gabor Pfalzer, I am a Full-Stack web developer, based in London, UK.
-#### Open to Tech Job offers, [Check out my Porfolio here](https://pfalzer.dev).
+### Open to Tech Job offers, [Check out my Porfolio here](https://pfalzer.dev).
 
 **Learning in progress**: Java, advanved OOP and Design Patterns, Data Structures and Algorithms. Deep dive at Jest testing. 
 
