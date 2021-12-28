@@ -15,7 +15,7 @@ Check out the project on [Ko-fi](https://ko-fi.com/studiogr)
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS | Python | Java | SQL
+JavaScript | TypeScript | HTML | CSS | SQL | Python | Java | Go
 
 
 ### Frontend
@@ -25,7 +25,7 @@ React | Redux | Vue.js | Next.js | Gatsby | Sass | Apollo
 
 ### Backend
 
-Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | Apollo
+Node.js | Express | MySQL | PostgresSQL | MongoDB | GraphQL | Apollo | Firebase
 
 
 ### Other Tools
